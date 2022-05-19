@@ -1,0 +1,592 @@
+[
+  {
+    "product_info": {
+      "Main_Fields": {
+        "GTIN": "7290014763845",
+        "Trade_Item_Description": "משקה אורז 1 ליטר טרי",
+        "Short_Description": "משקה אורז מצונן",
+        "Net_Content": { "text": "1 קג", "UOM": "קג", "value": "1" },
+        "Supplier_Catalog_Number": "",
+        "GLN": "7290003000005",
+        "BrandName": "תנובה",
+        "Sub_Brand_Name": "",
+        "functionalName": "",
+        "Variant": "",
+        "Country_of_Origin": [{ "value": "ישראל", "code": "IL" }],
+        "Effective_Date_Time": "13/09/2017",
+        "GPC_Category_Code": "10000026",
+        "Trade_Item_Unit_Descriptor": [{ "value": "מוצר בודד", "code": "EA" }],
+        "internal_product_description": ""
+      },
+      "General_Information": {
+        "Target_Market": [{ "value": "ישראל", "code": "IL" }],
+        "Manufacturer_Name": "סוי מג'יק",
+        "Additional_Trade_Item_Description_1": "",
+        "Product_Description_English": "Rice drink 1 L",
+        "Manufacturer_Address": "",
+        "Search_Words": "",
+        "Manufacturer_Product_Code": "",
+        "Discontinued_Date_Time": "22/03/2020"
+      },
+      "Marketing_Information": {
+        "Trade_Item_Marketing_Message": "מצונן",
+        "Trade_Item_Marketing_Message_2": "",
+        "Trade_Item_Marketing_Message_3": "",
+        "Trade_Item_Marketing_Message_4": "",
+        "Trade_Item_Marketing_Message_5": "",
+        "Trade_Item_Marketing_Message_6": "",
+        "Trade_Item_Marketing_Message_7": ""
+      },
+      "Logistics_and_Commercial_Properties_General": {
+        "Is_Trade_Item_A_Base_Unit": [{ "value": "כן", "code": "YES" }],
+        "Is_Trade_Item_A_Consumer_Unit": [{ "value": "כן", "code": "YES" }],
+        "Is_Trade_Item_An_Orderable_Unit": [{ "value": "כן", "code": "YES" }],
+        "Is_Trade_Item_A_Variable_Unit": [{ "value": "לא", "code": "NO" }],
+        "Is_Trade_Item_An_Invoice_Unit": [{ "value": "כן", "code": "YES" }]
+      },
+      "Logistics_and_Commercial_Properties_Additional": {
+        "First_Order_Date": "",
+        "Last_Order_Date": "",
+        "Product_Shelf_Life": { "text": "", "UOM": "", "value": "" },
+        "Order_Quantity_Minimum_Size": { "text": "", "UOM": "", "value": "" },
+        "Order_Quantity_Maximum_Size": { "text": "", "UOM": "", "value": "" },
+        "Is_Non_Sold_Trade_Item_Returnable": [{ "value": "", "code": "" }],
+        "Ordering_Lead_Time": { "text": "", "UOM": "", "value": "" },
+        "Is_Packaging_Marked_Returnable": [{ "value": "כן", "code": "YES" }],
+        "Delivery_Method": [{ "value": "", "code": "" }],
+        "Transportation_Temperature_Minimum": "",
+        "Transportation_Temperature_Maximum": "",
+        "Storage_Temperature_Minimum": "",
+        "Storage_Temperature_Maximum": "",
+        "Distribution_Temperature_Minimum": "",
+        "Distribution_Temperature_Maximum": ""
+      },
+      "Product_Dimensions": {
+        "Product_Height": { "text": "24 סמ", "UOM": "סמ", "value": "24" },
+        "Product_Depth": { "text": "7 סמ", "UOM": "סמ", "value": "7" },
+        "Product_Width": { "text": "7 סמ", "UOM": "סמ", "value": "7" },
+        "Net_Weight": { "text": "1 קג", "UOM": "קג", "value": "1" },
+        "Product_Gross_Weight": {
+          "text": "1072 גרם",
+          "UOM": "גרם",
+          "value": "1072"
+        },
+        "Price_Comparison_Content": {
+          "text": "1 ליטר",
+          "UOM": "ליטר",
+          "value": "1"
+        }
+      },
+      "Tray_Dimensions": {
+        "Tray_Type_Code": [{ "value": "", "code": "" }],
+        "Amount_of_Products_in_Tray": "",
+        "Tray_Height": "",
+        "Tray_Depth": "",
+        "Tray_Width": "",
+        "Tray_Volume": "",
+        "Tray_Gross_Weight": ""
+      },
+      "Case_or_Carton_Dimensions": {
+        "Packaging_Type_Code": [{ "value": "ארגז", "code": "7020" }],
+        "Amount_of_Products_in_Package_or_Carton": "16",
+        "Package_Height": { "text": "28.5 סמ", "UOM": "סמ", "value": "28.5" },
+        "Package_Depth": { "text": "33 סמ", "UOM": "סמ", "value": "33" },
+        "Package_Width": { "text": "33 סמ", "UOM": "סמ", "value": "33" },
+        "Package_Gross_Weight": {
+          "text": "18.402 קג",
+          "UOM": "קג",
+          "value": "18.402"
+        },
+        "Package_Volume": { "text": "", "UOM": "", "value": "" },
+        "GTIN_Package": ""
+      },
+      "Pallet_or_Logistic_Unit_Dimensions": {
+        "Logistics_Unit_Height": { "text": "", "UOM": "", "value": "" },
+        "Logistics_Unit_Depth": { "text": "", "UOM": "", "value": "" },
+        "Logistics_Unit_Width": { "text": "", "UOM": "", "value": "" },
+        "Logistics_Unit_Gross_Weight": { "text": "", "UOM": "", "value": "" },
+        "Pallet_Volume": { "text": "", "UOM": "", "value": "" },
+        "Quantity_Of_TradeItems_Per_Pallet_Layer": "",
+        "Quantity_Of_Layers_Per_Pallet": "",
+        "Quantity_Of_Trade_Items_Per_Pallet": "54"
+      },
+      "Promotional_Product_Information": {
+        "Promotion_Type_Code": [{ "value": "", "code": "" }],
+        "Free_Quantity_Of_Product": "",
+        "promotion_of": ""
+      },
+      "Kashrut": {
+        "Kosher_for_Passover": [{ "value": "", "code": "" }],
+        "Kosher_Supervision_Type": [{ "value": "פרווה", "code": "183" }],
+        "Rabbinate": [{ "value": "בדצ עדה החרדית", "code": "67068" }],
+        "Board_of_Supervision": [{ "value": "עמק יזרעאל", "code": "71126" }],
+        "Cooking_Israel": [{ "value": "", "code": "" }],
+        "Israel_Milk": [{ "value": "", "code": "" }],
+        "Sabbath_Observing_Plant": [{ "value": "", "code": "" }],
+        "Sheviit_Orlah_Tevel": "",
+        "Kosher_for_Passover_Remark": ""
+      },
+      "Product_Components_and_Instructions_General": {
+        "Diet_Information": [{ "value": "", "code": "" }],
+        "Ingredient_Sequence_and_Name": "מים, רכיבי אורז 10%, שמן חמניות, תוסף תזונה סידן: טריקלציום פוספאט( 0.1% סידן), מלח, עמילן מעובד (E-1450) מייצבים (קרגינן, גילאן גאם), ויטמין D (0.75 מק\"ג ל100 גרם).",
+        "Allergen_Type_Code_and_Containment": [
+          { "value": "אין", "code": "6843" }
+        ],
+        "Allergen_Type_Code_and_Containment_May_Contain": [
+          { "value": "אגוזים", "code": "6806" },
+          { "value": "סויה", "code": "6821" },
+          { "value": "שקדים", "code": "6840" }
+        ],
+        "Healthy_Product": "",
+        "Ingredient_Display": [{ "value": "", "code": "" }],
+        "Allergen_Displayed": [{ "value": "", "code": "" }]
+      },
+      "Additional_Information": {
+        "Serving_Suggestion": "",
+        "Consumer_Storage_Instructions": "",
+        "Fat_Percentage_in_Product": "",
+        "Cream_Percentage_in_Product": "",
+        "Fruit_Percentage_in_Product": "",
+        "Alcohol_Percentage_in_Product": "",
+        "Forbidden_Under_the_Age_of_18": [{ "value": "", "code": "" }],
+        "Hazard_Precautionary_Statement": "",
+        "Serving_Size_Description": {
+          "text": "כוס =",
+          "UOM": "=",
+          "value": "כוס"
+        },
+        "pH": "",
+        "Color_Number": "",
+        "Color": "",
+        "Color_Code": "",
+        "Skin_Type": "",
+        "Hair_Type": "",
+        "Contains_Sulfur_Dioxide": [{ "value": "", "code": "" }],
+        "Food_Symbol_Red": [{ "value": "", "code": "" }]
+      },
+      "System_Features": {
+        "Publication_Date_Time": "2018-01-24 15:23:47",
+        "modification_timestamp": "2022-01-12 14:15:43",
+        "Creation_Date_Time": "2017-09-13 10:12:20"
+      },
+      "Additional_Features": {
+        "Private_Brand": [{ "value": "", "code": "" }],
+        "Parallel_Import": [{ "value": "", "code": "" }],
+        "Item_Franchisee": [{ "value": "", "code": "" }],
+        "Regulated_Price": [{ "value": "", "code": "" }],
+        "Alternate_Item": "",
+        "New_Item_Classification": [{ "value": "", "code": "" }],
+        "Item_with_a_Deposit": [{ "value": "", "code": "" }],
+        "Internal_Classification": "",
+        "Remarks": "",
+        "Product_Categories_Classification": "",
+        "internal_product_description_additional": "",
+        "Substituted_Item": "",
+        "Remark_to_Customer": "",
+        "Imported_Item": "",
+        "Produced_in_Israel": "",
+        "animal_tested": ""
+      },
+      "Internal_System_Fields": {
+        "group_id": "10000026",
+        "id": "409",
+        "DisplayName": "",
+        "Name": "Milk_Milk Substitutes (Shelf Stable)",
+        "ProductName": "",
+        "unavailability_type": [{ "value": "0", "code": "Available" }],
+        "product_code": "IL_7290003000005_7290014763845_1505293940017",
+        "Product_Status": [{ "value": "מבוטל", "code": "6306" }]
+      },
+      "Nutritional_Values": {
+        "table": {
+          "tableName": "Nutritional Values Main",
+          "numberOfRows": 11,
+          "numberOfCols": 2,
+          "colLabels": [
+            { "label": "ל-100 מל", "code": "78003", "field_id": "6066" },
+            { "label": "לכוס", "code": "78014", "field_id": "6067" }
+          ],
+          "rows": [
+            {
+              "label": "אנרגיה (קלוריות)",
+              "code": "79001",
+              "fields": [
+                {
+                  "col_label": "ל-100 מל",
+                  "col_code": "78003",
+                  "col_field_id": "6066",
+                  "field_id": "5816",
+                  "field_name": "Energy_per_100_grams",
+                  "text": "43 קלוריות",
+                  "UOM": "קלוריות",
+                  "value": "43"
+                },
+                {
+                  "col_label": "לכוס",
+                  "col_code": "78014",
+                  "col_field_id": "6067",
+                  "field_id": "5817",
+                  "field_name": "Energy_per_Serving",
+                  "text": "86 קלוריות",
+                  "UOM": "קלוריות",
+                  "value": "86"
+                }
+              ]
+            },
+            {
+              "label": "שומנים (גרם)",
+              "code": "79007",
+              "fields": [
+                {
+                  "col_label": "ל-100 מל",
+                  "col_code": "78003",
+                  "col_field_id": "6066",
+                  "field_id": "5826",
+                  "field_name": "Fats_per_100_grams",
+                  "text": "1.2 גרם",
+                  "UOM": "גרם",
+                  "value": "1.2"
+                },
+                {
+                  "col_label": "לכוס",
+                  "col_code": "78014",
+                  "col_field_id": "6067",
+                  "field_id": "5827",
+                  "field_name": "Fats_per_Serving",
+                  "text": "2.4 גרם",
+                  "UOM": "גרם",
+                  "value": "2.4"
+                }
+              ]
+            },
+            {
+              "label": "חומצות שומן רוויות (גרם)",
+              "code": "79008",
+              "fields": [
+                {
+                  "col_label": "ל-100 מל",
+                  "col_code": "78003",
+                  "col_field_id": "6066",
+                  "field_id": "5828",
+                  "field_name": "Saturated_Fatty_Acids_per_100_grams",
+                  "text": "0.2 גרם",
+                  "UOM": "גרם",
+                  "value": "0.2"
+                },
+                {
+                  "col_label": "לכוס",
+                  "col_code": "78014",
+                  "col_field_id": "6067",
+                  "field_id": "5829",
+                  "field_name": "Saturated_Fatty_Acids_per_Serving",
+                  "text": "0.4 גרם",
+                  "UOM": "גרם",
+                  "value": "0.4"
+                }
+              ]
+            },
+            {
+              "label": "חומצות שומן טראנס (גרם)",
+              "code": "79009",
+              "fields": [
+                {
+                  "col_label": "ל-100 מל",
+                  "col_code": "78003",
+                  "col_field_id": "6066",
+                  "field_id": "5830",
+                  "field_name": "Trans_Fatty_Acids_per_100_grams",
+                  "text": "פחות מ-0.5 גרם",
+                  "UOM": "גרם",
+                  "value": "L 0.5"
+                },
+                {
+                  "col_label": "לכוס",
+                  "col_code": "78014",
+                  "col_field_id": "6067",
+                  "field_id": "5831",
+                  "field_name": "Trans_Fatty_Acids_per_Serving",
+                  "text": "פחות מ-0.5 גרם",
+                  "UOM": "גרם",
+                  "value": "L 0.5"
+                }
+              ]
+            },
+            {
+              "label": "כולסטרול (מג)",
+              "code": "79010",
+              "fields": [
+                {
+                  "col_label": "ל-100 מל",
+                  "col_code": "78003",
+                  "col_field_id": "6066",
+                  "field_id": "5832",
+                  "field_name": "Cholesterol_per_100_grams",
+                  "text": "פחות מ-2.5 מג",
+                  "UOM": "מג",
+                  "value": "L 2.5"
+                },
+                {
+                  "col_label": "לכוס",
+                  "col_code": "78014",
+                  "col_field_id": "6067",
+                  "field_id": "5833",
+                  "field_name": "Cholesterol_per_Serving",
+                  "text": "פחות מ-2.5 מג",
+                  "UOM": "מג",
+                  "value": "L 2.5"
+                }
+              ]
+            },
+            {
+              "label": "נתרן (מג)",
+              "code": "79011",
+              "fields": [
+                {
+                  "col_label": "ל-100 מל",
+                  "col_code": "78003",
+                  "col_field_id": "6066",
+                  "field_id": "5836",
+                  "field_name": "Sodium_per_100_grams",
+                  "text": "40 מג",
+                  "UOM": "מג",
+                  "value": "40"
+                },
+                {
+                  "col_label": "לכוס",
+                  "col_code": "78014",
+                  "col_field_id": "6067",
+                  "field_id": "5837",
+                  "field_name": "Sodium_per_Serving",
+                  "text": "80 מג",
+                  "UOM": "מג",
+                  "value": "80"
+                }
+              ]
+            },
+            {
+              "label": "סך הפחמימות (גרם)",
+              "code": "79003",
+              "fields": [
+                {
+                  "col_label": "ל-100 מל",
+                  "col_code": "78003",
+                  "col_field_id": "6066",
+                  "field_id": "5820",
+                  "field_name": "Carbohydrates_per_100_grams",
+                  "text": "8 גרם",
+                  "UOM": "גרם",
+                  "value": "8"
+                },
+                {
+                  "col_label": "לכוס",
+                  "col_code": "78014",
+                  "col_field_id": "6067",
+                  "field_id": "5821",
+                  "field_name": "Carbohydrates_per_Serving",
+                  "text": "16 גרם",
+                  "UOM": "גרם",
+                  "value": "16"
+                }
+              ]
+            },
+            {
+              "label": "סוכרים מתוך פחמימות (גרם)",
+              "code": "79004",
+              "fields": [
+                {
+                  "col_label": "ל-100 מל",
+                  "col_code": "78003",
+                  "col_field_id": "6066",
+                  "field_id": "5822",
+                  "field_name": "Sugars_from_Carbohydrates_per_100_grams",
+                  "text": "5 גרם",
+                  "UOM": "גרם",
+                  "value": "5"
+                },
+                {
+                  "col_label": "לכוס",
+                  "col_code": "78014",
+                  "col_field_id": "6067",
+                  "field_id": "5823",
+                  "field_name": "Sugars_from_Carbohydrates_per_Serving",
+                  "text": "10 גרם",
+                  "UOM": "גרם",
+                  "value": "10"
+                }
+              ]
+            },
+            {
+              "label": "חלבונים (גרם)",
+              "code": "79002",
+              "fields": [
+                {
+                  "col_label": "ל-100 מל",
+                  "col_code": "78003",
+                  "col_field_id": "6066",
+                  "field_id": "5818",
+                  "field_name": "Proteins_per_100_grams",
+                  "text": "0.1 גרם",
+                  "UOM": "גרם",
+                  "value": "0.1"
+                },
+                {
+                  "col_label": "לכוס",
+                  "col_code": "78014",
+                  "col_field_id": "6067",
+                  "field_id": "5819",
+                  "field_name": "Proteins_per_Serving",
+                  "text": "0.2 גרם",
+                  "UOM": "גרם",
+                  "value": "0.2"
+                }
+              ]
+            },
+            {
+              "label": "סידן (מג)",
+              "code": "79014",
+              "fields": [
+                {
+                  "col_label": "ל-100 מל",
+                  "col_code": "78003",
+                  "col_field_id": "6066",
+                  "field_id": "5865",
+                  "field_name": "Calcium_per_100_grams",
+                  "text": "120 מג",
+                  "UOM": "מג",
+                  "value": "120"
+                },
+                {
+                  "col_label": "לכוס",
+                  "col_code": "78014",
+                  "col_field_id": "6067",
+                  "field_id": "5866",
+                  "field_name": "Calcium_per_Serving",
+                  "text": "240 מג",
+                  "UOM": "מג",
+                  "value": "240"
+                }
+              ]
+            },
+            {
+              "label": "ויטמין D (מקג)",
+              "code": "79028",
+              "fields": [
+                {
+                  "col_label": "ל-100 מל",
+                  "col_code": "78003",
+                  "col_field_id": "6066",
+                  "field_id": "5842",
+                  "field_name": "Vitamin_D_per_100_grams",
+                  "text": "0.75 מקג",
+                  "UOM": "מקג",
+                  "value": "0.75"
+                },
+                {
+                  "col_label": "לכוס",
+                  "col_code": "78014",
+                  "col_field_id": "6067",
+                  "field_id": "5843",
+                  "field_name": "Vitamin_D_per_Serving",
+                  "text": "1.5 מקג",
+                  "UOM": "מקג",
+                  "value": "1.5"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "private_data": [],
+    "media_assets": [
+      {
+        "id": "177048",
+        "retailer_gln": "",
+        "GTIN": "7290014763845",
+        "GLN": "7290003000005",
+        "filename": "7290014763845_S1_15.jpg",
+        "filename_display": "7290014763845_S1_15.JPG",
+        "file_extension": "jpg",
+        "width": "2560",
+        "height": "2560",
+        "show_in_gallery": "0",
+        "drawing_key": "",
+        "hidden": "0",
+        "language_code": "",
+        "translation_of_file_id": "0",
+        "file_size": "834637",
+        "source": "",
+        "modification_timestamp": "2018-01-24 15:23:47",
+        "system_id": "0",
+        "image_type": "S",
+        "facing": "FACING1",
+        "plunge_angle": "15",
+        "arc_position_number": "",
+        "default_image": "1",
+        "product_pic_designation": "EL",
+        "publication_timestamp": "2018-01-24 15:23:47",
+        "publish_file": "1",
+        "creation_timestamp": "2017-10-17 13:37:32"
+      },
+      {
+        "id": "177049",
+        "retailer_gln": "",
+        "GTIN": "7290014763845",
+        "GLN": "7290003000005",
+        "filename": "7290014763845_P1.jpg",
+        "filename_display": "7290014763845_P1.JPG",
+        "file_extension": "jpg",
+        "width": "841",
+        "height": "2560",
+        "show_in_gallery": "0",
+        "drawing_key": "",
+        "hidden": "0",
+        "language_code": "",
+        "translation_of_file_id": "0",
+        "file_size": "1064831",
+        "source": "",
+        "modification_timestamp": "2018-01-24 15:23:47",
+        "system_id": "0",
+        "image_type": "S",
+        "facing": "FACING1",
+        "plunge_angle": "0",
+        "arc_position_number": "",
+        "default_image": "0",
+        "product_pic_designation": "PL",
+        "publication_timestamp": "2018-01-24 15:23:47",
+        "publish_file": "1",
+        "creation_timestamp": "2017-10-17 13:37:32"
+      },
+      {
+        "id": "177050",
+        "retailer_gln": "",
+        "GTIN": "7290014763845",
+        "GLN": "7290003000005",
+        "filename": "7290014763845.zip",
+        "filename_display": "7290014763845.zip",
+        "file_extension": "zip",
+        "width": "0",
+        "height": "0",
+        "show_in_gallery": "0",
+        "drawing_key": "",
+        "hidden": "0",
+        "language_code": "",
+        "translation_of_file_id": "0",
+        "file_size": "8786616",
+        "source": "",
+        "modification_timestamp": "2018-01-24 15:23:47",
+        "system_id": "0",
+        "image_type": "E",
+        "facing": "FACING0",
+        "plunge_angle": "15",
+        "arc_position_number": "",
+        "default_image": "0",
+        "product_pic_designation": "EL",
+        "publication_timestamp": "2018-01-24 15:23:47",
+        "publish_file": "1",
+        "creation_timestamp": "2017-10-17 13:37:34"
+      }
+    ],
+    "multi_pack": []
+  }
+]
