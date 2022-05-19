@@ -1,4 +1,4 @@
-const OtherClass = () => {
+const SecondClass = () => {
   const sdfsdf = 2;
   const nusdfsdfmn = 3;
 
