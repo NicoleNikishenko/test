@@ -7,7 +7,7 @@ const SecondClass = () => {
 
   }
 
-  const fsdfo = () => {
+  const goo = () => {
     
   }
 
